@@ -1,4 +1,4 @@
-# compositeproject1
+# project
 
 GOAL:
 *** Designing and tweaking webpage of airbnb for top rental searches in australia
